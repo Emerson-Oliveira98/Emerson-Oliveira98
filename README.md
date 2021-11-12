@@ -17,7 +17,7 @@
   <img align="center" alt="Emerson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emerson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emerson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Emerson-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/sql-original.svg">
+  <img align="center" alt="Emerson-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/tsql-original.svg">
 
 </div>
   
