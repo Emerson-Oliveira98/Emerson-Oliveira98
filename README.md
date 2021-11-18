@@ -37,4 +37,9 @@
 ![Snake animation](https://github.com/Emerson-Oliveira98/Emerson-Oliveira98/blob/output/github-contribution-grid-snake.svg)
   
   
+<div align="center">
+<img src="//www.meupositivo.com.br/doseujeito/wp-content/uploads/2017/10/giphy-1-2.gif" alt="IMAGE ALT TEXT">
+</div>
+  
+  
 
