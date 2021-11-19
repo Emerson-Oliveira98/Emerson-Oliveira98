@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Emerson Oliveira
 
-- 🖥️ Hoje trabalho com Back-end
+- 🖥️ Hoje trabalho com Full-Stack
 - 📱 Estudando Java, Python, Java-Script e React
 
 <div>
