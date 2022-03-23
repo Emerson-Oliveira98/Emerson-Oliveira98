@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Emerson Oliveira
 
-- 🖥️ Hoje trabalho com Full-Stack
-- 📱 Estudando Java, Python, Java-Script e React
+- 🖥️ Hoje trabalho como Full-Stack
+- 📱 Estudando Java, Python, Java-Script, Node-JS e React
 
 <div>
   <a href="https://beacons.ai/Emerson-Oliveira98">
